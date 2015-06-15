@@ -10,5 +10,4 @@
 
 * 4 "runme.m" is the main function.
 
-* 5 An example video and several saliency maps are included in the folder "Data/InputVideos", and you can test it directly by running "runme.m".  
-   you can change the video path througth 'setpath.m', and the code only avilable for the video of the .avi format.
+* 5 An example video and several saliency maps are included in the folder "Data/InputVideos", and you can test it directly by running "runme.m".  **you can change the video path througth 'setpath.m', and the code only avilable for the video of the .avi format**.
